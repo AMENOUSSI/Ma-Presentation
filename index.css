@@ -224,3 +224,8 @@ footer p a{
     color: rgb(199,198 ,198);
     font-weight: bold;
 }
+
+.para{
+    font-style:italic;
+    font-family: 'Times New Roman', Times, serif;
+}
